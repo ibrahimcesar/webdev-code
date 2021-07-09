@@ -35,3 +35,4 @@ sudo apt-get insttall nodejs
 
 ## Referências
 - [Quais os motivos para escolher entre camelCase e PascalCase em nomes de métodos?](https://pt.stackoverflow.com/questions/386953/quais-os-motivos-para-escolher-entre-camelcase-e-pascalcase-em-nomes-de-m%C3%A9todos)
+- [Convenções em nomes em linguagens de programação (material em inglês)](https://en.wikipedia.org/wiki/Naming_convention_(programming))
