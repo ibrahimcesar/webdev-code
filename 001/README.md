@@ -47,14 +47,6 @@ Esta série de vídeos é muito interessante para ir conhecendo o JavaScript: su
 
 </div>
 
-### The Weird History of JavaScript
-
-<div align="center">
-
-[![The Weird History of JavaScript](https://img.youtube.com/vi/Sh6lK57Cuk4/hqdefault.jpg)](https://www.youtube.com/watch?v=Sh6lK57Cuk4)
-
-</div>
-
 ### JavaScript: How It's Made
 
 <div align="center">
