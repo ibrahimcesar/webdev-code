@@ -6,7 +6,6 @@
 
   </div>
 
------------
 
 😄 ‏‏‎ ‎‏‏‎ Estamos muito felizes que você chegou!
 
