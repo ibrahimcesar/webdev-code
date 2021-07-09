@@ -36,3 +36,38 @@ sudo apt-get insttall nodejs
 ## Referências
 - [Quais os motivos para escolher entre camelCase e PascalCase em nomes de métodos?](https://pt.stackoverflow.com/questions/386953/quais-os-motivos-para-escolher-entre-camelcase-e-pascalcase-em-nomes-de-m%C3%A9todos)
 - [Convenções em nomes em linguagens de programação (material em inglês)](https://en.wikipedia.org/wiki/Naming_convention_(programming))
+
+Esta série de vídeos é muito interessante para ir conhecendo o JavaScript: sua histtória e características. É em inglês:
+
+### The Weird History of JavaScript
+
+<div align="center">
+
+[![The Weird History of JavaScript](https://img.youtube.com/vi/Sh6lK57Cuk4/hqdefault.jpg)](https://www.youtube.com/watch?v=Sh6lK57Cuk4)
+
+</div>
+
+### The Weird History of JavaScript
+
+<div align="center">
+
+[![The Weird History of JavaScript](https://img.youtube.com/vi/Sh6lK57Cuk4/hqdefault.jpg)](https://www.youtube.com/watch?v=Sh6lK57Cuk4)
+
+</div>
+
+### JavaScript: How It's Made
+
+<div align="center">
+
+[![JavaScript: How It's Made](https://img.youtube.com/vi/FSs_JYwnAdI/hqdefault.jpg)](https://www.youtube.com/watch?v=FSs_JYwnAdI)
+
+</div>
+
+
+### The JavaScript Survival Guide
+
+<div align="center">
+
+[![The JavaScript Survival Guide](https://img.youtube.com/vi/9emXNzqCKyg/hqdefault.jpg)](https://www.youtube.com/watch?v=9emXNzqCKyg)
+
+</div>
