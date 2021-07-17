@@ -1,0 +1,53 @@
+# Bibliografia de referência
+
+- [**A Philosophy of Software Design**](https://amzn.to/3ewuwP7), *John Ousterhout*
+- [**Accelerate: The Science of Lean Software and DevOps**: *Building and Scaling High Performing Technology Organizations*,](https://amzn.to/3epRAiz) *Nicole Forsgren, Jez Humble & Gene Kim*
+- [**Accessibility for Everyone**](https://abookapart.com/products/accessibility-for-everyone), *Laura Kalbag*
+- [**AWS Security,**](https://amzn.to/3z9jqaO) *Dylan Shields*
+- [**Building Event-Driven Microservices**: *Leveraging Organizational Data at Scale*](https://amzn.to/3esAmB0), *Adam Bellemare*
+- [**Continuous Delivery: *Reliable Software Releases Through Build, Test, and Deployment Automation***](https://amzn.to/3wRvhbH), *Jez Humble & David Farley*
+- [**CORS in Action**: *Creating and consuming cross-origin APIs*](https://amzn.to/3xOUa9w), *Monsur Hossain*
+- [**Designing Data-Intensive Application:** *The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*](https://amzn.to/2Tgp7nQ), *Martin Kleppmann*
+- [**Design Systems**](https://amzn.to/3etHltF), *Alla Kholmatova*
+- [**Docker: Up & Running:** *Shipping Reliable Containers in Production*](https://amzn.to/3wNZGHS), *Sean P. Kane & Karl Mathias*
+- **Effective JavaScript**, *David Herman*
+- **Effective TypeScript: *62 Specific Ways to Improve Your TypeScript**, Dan VanderKam*
+- [**Eloquent JavaScript**: *A Modern Introduction to Programming*](https://amzn.to/3BozVll), *Marijn Haverbeke*
+- **Form Design Patterns**, *Adam Silver*
+- **Full Stack Serverless: *Modern Application Development with React, AWS, and GraphQL**, Nader Dabit*
+- **Fundamentals of Software Architecture: *An Engineering Approach***, *Mark Richards & Neal Ford*
+- **Grokking Algorithms**, *Aditya Y. Bhargava*
+- **Image Optimization**, *Addy Osmani*
+- **Inclusive Components**, *Heydon Pickering*
+- **Learning React: *Modern Patterns for Developing React**,* *Alex Banks & Eve Porcello*
+- **Learning Serverless: *Design, Develop, and Deploy with Confidence**, Jason Katzer*
+- **Microservices Up & Running: *A Step-by-Step Guide to Building Microservices Architecture**, Ronnie Mitra & Irakli Nadareishvili*
+- **Monolith to Microservices: *Evolutionary Patterns to Transform Your Monolith**, Sam Newman*
+- **Privacy Engineering**, *Nishant Bhajaria*
+- **Programming TypeScript: *Making Your JavaScript Applications Scale**, Boris Cherny*
+- **Progressive Web Apps**, *Jason Grigsby*
+- **Responsible Responsive Design**, *Scott Jehl*
+- **Ruined by Design: *How Designers Destroyed the World, and What We Can Do to Fix It**, Mike Monteiro*
+- **Semantic Software Design: *A New Theory and Practical Guide for Modern Architects**, Eben Hewitt*
+- **Serverless Architectures on AWS**, *Peter Sbarski, Yan Cui & Ajay Nair*
+- **Smart Interface Design Patterns Checklists**, *Vitaly Friedman*
+- **Solutions Architect's Handbook**, *Saurabh Shrivastava*
+- [**Sooner, Safer, Happier**: *Antipatterns and Patterns for Business Agility*](https://amzn.to/3igPS46), *Jonathan Smart*
+- **Structure and Interpretation of Computer Programs,** *Harold Abelson, Gerald Jay Sussman & Julie Sussman*
+- **Team Topologies: *Organizing Business and Technology Teams for Fast Flow**, Matthew Skelton & Manuel Pais*
+- **Terraform: *Up and Running: Writing Infrastructure as Code**, Yevgeniy Brikman*
+- **The DevOps Handbook: *How to Create World-Class Agility, Reliability, and Security in Technology Organizations**, Gene Kim, Jez Humble, Patrick Debois & John Willis*
+- **The DynamoDB Book**, *Alex DeBrie*
+- **The Good Parts of AWS**, *Dan Vassalo*
+- **The Phoenix Project: *A Novel About IT, DevOps, and Helping Your Business Win**, Gene Kim*
+- **The Pragmatic Programmer**, *Andrew Hunt & David Thomas*
+- **The Unicorn Project**, *Gene Kim*
+- **TypeScript in 50 Lessons**, *Stefan Baumgartner*
+- **Web Application Security: *Exploitation and Countermeasures for Modern Web Applications**, Andrew Hoffman*
+- **Well-Architected Framework**, *AWS*
+- [**You Don't Know JS**: *Async & Performance*](https://amzn.to/3z8CzJJ), *Kyle Simpson*
+- [**You Don't Know JS**: *ES6 & Beyond*](https://amzn.to/3ilgEs5), *Kyle Simpson*
+- [**You Don't Know JS**: *Scope and Closures*](https://amzn.to/3kuimdx), *Kyle Simpson*
+- [**You Don't Know JS**: *this & Object Prototypes*](https://amzn.to/3hOlZZK), *Kyle Simpson*
+- [**You Don't Know JS**: *Types & Grammar*](https://amzn.to/3ri7CAe), *Kyle Simpson*
+- [**You Don't Know JS**: *Up & Going*](https://amzn.to/3xRptAC), *Kyle Simpson*
