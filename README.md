@@ -17,3 +17,5 @@ Cada aula possui sua pasta com um número correspondente. Dentro da pasta haver�
 
 - [Bibliografia utilizada na produção deste curso](bibliografia.md)
 
+--------
+© 2021 Awari. Todos os direitos reservados.
