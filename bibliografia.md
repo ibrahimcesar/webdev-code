@@ -10,41 +10,41 @@
 - [**Designing Data-Intensive Application:** *The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*](https://amzn.to/2Tgp7nQ), *Martin Kleppmann*
 - [**Design Systems**](https://amzn.to/3etHltF), *Alla Kholmatova*
 - [**Docker: Up & Running:** *Shipping Reliable Containers in Production*](https://amzn.to/3wNZGHS), *Sean P. Kane & Karl Mathias*
-- **Effective JavaScript**, *David Herman*
-- **Effective TypeScript: *62 Specific Ways to Improve Your TypeScript**, Dan VanderKam*
+- [**Effective JavaScript**](https://amzn.to/2UVsl0J), *David Herman*
+- [**Effective TypeScript:** *62 Specific Ways to Improve Your TypeScript*](https://amzn.to/2URhox1), *Dan VanderKam*
 - [**Eloquent JavaScript**: *A Modern Introduction to Programming*](https://amzn.to/3BozVll), *Marijn Haverbeke*
-- **Form Design Patterns**, *Adam Silver*
-- **Full Stack Serverless: *Modern Application Development with React, AWS, and GraphQL**, Nader Dabit*
-- **Fundamentals of Software Architecture: *An Engineering Approach***, *Mark Richards & Neal Ford*
-- **Grokking Algorithms**, *Aditya Y. Bhargava*
-- **Image Optimization**, *Addy Osmani*
-- **Inclusive Components**, *Heydon Pickering*
-- **Learning React: *Modern Patterns for Developing React**,* *Alex Banks & Eve Porcello*
-- **Learning Serverless: *Design, Develop, and Deploy with Confidence**, Jason Katzer*
-- **Microservices Up & Running: *A Step-by-Step Guide to Building Microservices Architecture**, Ronnie Mitra & Irakli Nadareishvili*
-- **Monolith to Microservices: *Evolutionary Patterns to Transform Your Monolith**, Sam Newman*
-- **Privacy Engineering**, *Nishant Bhajaria*
-- **Programming TypeScript: *Making Your JavaScript Applications Scale**, Boris Cherny*
-- **Progressive Web Apps**, *Jason Grigsby*
-- **Responsible Responsive Design**, *Scott Jehl*
-- **Ruined by Design: *How Designers Destroyed the World, and What We Can Do to Fix It**, Mike Monteiro*
-- **Semantic Software Design: *A New Theory and Practical Guide for Modern Architects**, Eben Hewitt*
-- **Serverless Architectures on AWS**, *Peter Sbarski, Yan Cui & Ajay Nair*
-- **Smart Interface Design Patterns Checklists**, *Vitaly Friedman*
-- **Solutions Architect's Handbook**, *Saurabh Shrivastava*
+- [**Form Design Patterns**](https://amzn.to/3xMXWjF), *Adam Silver*
+- [**Full Stack Serverless:** *Modern Application Development with React, AWS, and GraphQL*](https://amzn.to/3ikssL5), Nader Dabit*
+- [**Fundamentals of Software Architecture:** *An Engineering Approach*](https://amzn.to/2UW78n3), *Mark Richards & Neal Ford*
+- [**Grokking Algorithms**](https://amzn.to/3zaKF4A), *Aditya Y. Bhargava*
+- [**Image Optimization**](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/), *Addy Osmani*
+- [**Inclusive Components**](https://inclusive-components.design/), *Heydon Pickering*
+- [**Learning React:** *Modern Patterns for Developing React*](https://amzn.to/3xJfWeG), *Alex Banks & Eve Porcello*
+- [**Learning Serverless:** *Design, Develop, and Deploy with Confidence*](https://amzn.to/3eqM6nC), Jason Katzer*
+- [**Microservices Up & Running:** *A Step-by-Step Guide to Building Microservices Architecture*](https://amzn.to/2UW7ABL), Ronnie Mitra & Irakli Nadareishvili*
+- [**Monolith to Microservices:** *Evolutionary Patterns to Transform Your Monolith*](https://amzn.to/3rhs4kI), *Sam Newman*
+- [**Privacy Engineering**](https://www.manning.com/books/privacy-engineering), *Nishant Bhajaria*
+- [**Programming TypeScript:** *Making Your JavaScript Applications Scale*](https://amzn.to/3z42lii), *Boris Cherny*
+- [**Progressive Web Apps**](https://abookapart.com/products/progressive-web-apps), *Jason Grigsby*
+- [**Responsible Responsive Design**](https://abookapart.com/products/responsible-responsive-design), *Scott Jehl*
+- [**Ruined by Design**: *How Designers Destroyed the World, and What We Can Do to Fix It*](https://amzn.to/3wMDDBu), *Mike Monteiro*
+- [**Semantic Software Design**: *A New Theory and Practical Guide for Modern Architects*](https://amzn.to/3z9lpMi), *Eben Hewitt*
+- [**Serverless Architectures on AWS**](https://amzn.to/3wOEvWr), *Peter Sbarski, Yan Cui & Ajay Nair*
+- [**Smart Interface Design Patterns Checklists**](https://www.smashingmagazine.com/2020/08/checklist-cards-release/), *Vitaly Friedman*
+- [**Solutions Architect's Handbook**](https://amzn.to/3ifbPR6), *Saurabh Shrivastava*
 - [**Sooner, Safer, Happier**: *Antipatterns and Patterns for Business Agility*](https://amzn.to/3igPS46), *Jonathan Smart*
-- **Structure and Interpretation of Computer Programs,** *Harold Abelson, Gerald Jay Sussman & Julie Sussman*
-- **Team Topologies: *Organizing Business and Technology Teams for Fast Flow**, Matthew Skelton & Manuel Pais*
-- **Terraform: *Up and Running: Writing Infrastructure as Code**, Yevgeniy Brikman*
-- **The DevOps Handbook: *How to Create World-Class Agility, Reliability, and Security in Technology Organizations**, Gene Kim, Jez Humble, Patrick Debois & John Willis*
-- **The DynamoDB Book**, *Alex DeBrie*
-- **The Good Parts of AWS**, *Dan Vassalo*
-- **The Phoenix Project: *A Novel About IT, DevOps, and Helping Your Business Win**, Gene Kim*
-- **The Pragmatic Programmer**, *Andrew Hunt & David Thomas*
-- **The Unicorn Project**, *Gene Kim*
-- **TypeScript in 50 Lessons**, *Stefan Baumgartner*
-- **Web Application Security: *Exploitation and Countermeasures for Modern Web Applications**, Andrew Hoffman*
-- **Well-Architected Framework**, *AWS*
+- [**Structure and Interpretation of Computer Programs**](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html), *Harold Abelson, Gerald Jay Sussman & Julie Sussman*
+- [**Team Topologies:** *Organizing Business and Technology Teams for Fast Flow*](https://amzn.to/36MuYEJ), *Matthew Skelton & Manuel Pais*
+- [**Terraform: Up and Running**: *Writing Infrastructure as Code*](https://amzn.to/3ipsIsa), *Yevgeniy Brikman*
+- [**The DevOps Handbook**: *How to Create World-Class Agility, Reliability, and Security in Technology Organizations*](https://amzn.to/3reu4dy), *Gene Kim, Jez Humble, Patrick Debois & John Willis*
+- [**The DynamoDB Book**](https://www.dynamodbbook.com/), *Alex DeBrie*
+- [**The Good Parts of AWS**](https://dvassallo.gumroad.com/l/aws-good-parts), *Dan Vassalo*
+- [**The Phoenix Project:** *A Novel About IT, DevOps, and Helping Your Business Win*](https://amzn.to/3kvAyn6), *Gene Kim*
+- [**The Pragmatic Programmer**](https://amzn.to/3BhV2Fw), *Andrew Hunt & David Thomas*
+- [**The Unicorn Project**](https://amzn.to/3xNQfK2), *Gene Kim*
+- [**TypeScript in 50 Lessons**](https://amzn.to/3il1HX9), *Stefan Baumgartner*
+- [**Web Application Security:** *Exploitation and Countermeasures for Modern Web Applications*](https://amzn.to/3BenLLr), Andrew Hoffman*
+- [**Well-Architected Framework**](https://ibrahimcesar.cloud/blog/aws-well-architected-framework/), *AWS*
 - [**You Don't Know JS**: *Async & Performance*](https://amzn.to/3z8CzJJ), *Kyle Simpson*
 - [**You Don't Know JS**: *ES6 & Beyond*](https://amzn.to/3ilgEs5), *Kyle Simpson*
 - [**You Don't Know JS**: *Scope and Closures*](https://amzn.to/3kuimdx), *Kyle Simpson*
