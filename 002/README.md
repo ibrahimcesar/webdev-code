@@ -8,7 +8,7 @@ E agora, a atividade é **observar** e **relatar**.
 
 - [ ] Qual é a forma que você costuma acessar este site? Desktop, celular, tablet? Em qual sistema operacional? Em qual navegador?
 - [ ] Este site possui um aplicativo que você pode baixar? Você utiliza o app?
-- [ ] Qual a funcionlidade predileta deste site?
+- [ ] Qual a funcionalidade predileta deste site?
 - [ ] Qual é a sua percepção de velocidade? Carrega rápido? 
 - [ ] Tente acessar este site de formas diferentes do habitual. Em outros navegadores, etc. Há alguma diferença?
 - [ ] Clique com o botão direito do mouse no Desktop acessando esse site e selecione a opção de exibir o código-fonte. Dê uma olha, consegue se encontrar? Ou está tudo "bagunçado"?
