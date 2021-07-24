@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/h/1.png">
+  <img src="../images/h/1.png" alt="Começando" />
 </div>
 
 # Hello World!
