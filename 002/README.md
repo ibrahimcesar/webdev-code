@@ -16,7 +16,7 @@ E agora, a atividade é **observar** e **relatar**.
 - [ ] Você se lembra deste site ter ficado indisponível em algum momento?
 - [ ] E um site que você lembra algum desprazer ou mais experiêcia. Qual foi e por quê?
 
-Suas respostas vão ser úteis no futuro quando iniciarmos nossa jornada do desenvolvimento web e poderemos revisitar essas anotações e entender tudo (ou quase tudo) que está acontecendo!
+Suas respostas vão ser úteis no futuro quando iniciarmos nossa jornada do desenvolvimento web e poderemos revisitar essas anotações e entender tudo (ou quase tudo) que está acontecendo! Por favor, as incluam no canal adequado de sua turma!
 
 ## Referências
 
