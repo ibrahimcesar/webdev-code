@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="../images/h/1.png" alt="Começando" />
+</div>
+
 # Hello World!
 
 Para rodar o arquivo nesta pasta você precisará ter instalado o NodeJS e um navegador e um terminal.
