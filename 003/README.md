@@ -1,5 +1,5 @@
 <div align="center">
-<img  src="../images/h/3.png" alt="Git e versionamento">
+<img  src="../images/h/2.png" alt="Git e versionamento">
 </div>
 
 # Aula 3
