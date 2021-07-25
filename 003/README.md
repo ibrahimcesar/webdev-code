@@ -1,7 +1,6 @@
+<img  src="../imagens/h/3.png" alt="Git e versionamento">
+
 # Aula 3
-
-<img width="1196" alt="Captura de Tela 2021-07-18 às 17 29 56" src="https://user-images.githubusercontent.com/509054/126081309-37d01b2d-482f-4349-b909-079a3ddc202d.png">
-
 
 ## Console, terminal, ou shell
 
@@ -33,17 +32,5 @@ Entre outros.
 
 Adaptado de [What's the difference between a console, a terminal, and a shell?](https://www.hanselman.com/blog/whats-the-difference-between-a-console-a-terminal-and-a-shell)
 
-## Comandos
-
-### `pwd`
-
-_Print Work Directory_, exibe o diretório atual em que se encontra o usuário, o diretório de trabalho, ou _work directory_.
-
-![pwd](https://user-images.githubusercontent.com/509054/126081815-5db29cae-6fab-4c98-9cb2-2463fa40cad5.png)
-
-### `ls`
-
-_LiSt_, exibe, `print` todo os arquivos no diretório em que estiver.
-
-- [Referência](https://ss64.com/bash/)
+## Atividade
 
