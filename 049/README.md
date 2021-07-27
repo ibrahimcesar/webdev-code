@@ -1,5 +1,5 @@
 <div align="center">
-<img  src="../images/h/28.png" alt="Open source e comunidade" />
+<img  src="../images/h/0.png" alt="(*) Wildcard" />
 </div>
 
 # Aula 49
