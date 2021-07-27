@@ -20,6 +20,7 @@
 - [**Grokking Algorithms**](https://amzn.to/3zaKF4A), *Aditya Y. Bhargava*
 - [**Image Optimization**](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/), *Addy Osmani*
 - [**Inclusive Components**](https://inclusive-components.design/), *Heydon Pickering*
+- [**Introduction to algorithms**](https://amzn.to/3kXe52p), *Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein*
 - [**Learning React:** *Modern Patterns for Developing React*](https://amzn.to/3xJfWeG), *Alex Banks & Eve Porcello*
 - [**Learning Serverless:** *Design, Develop, and Deploy with Confidence*](https://amzn.to/3eqM6nC), Jason Katzer*
 - [**Microservices Up & Running:** *A Step-by-Step Guide to Building Microservices Architecture*](https://amzn.to/2UW7ABL), Ronnie Mitra & Irakli Nadareishvili*
