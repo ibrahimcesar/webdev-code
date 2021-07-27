@@ -1,5 +1,6 @@
 # Bibliografia de referência
 
+- [**14 Habits of Highly Productive Developers**](https://amzn.to/3x7m5QP), *Zeno Rocha*
 - [**A Philosophy of Software Design**](https://amzn.to/3ewuwP7), *John Ousterhout*
 - [**Accelerate: The Science of Lean Software and DevOps**: *Building and Scaling High Performing Technology Organizations*,](https://amzn.to/3epRAiz) *Nicole Forsgren, Jez Humble & Gene Kim*
 - [**Accessibility for Everyone**](https://abookapart.com/products/accessibility-for-everyone), *Laura Kalbag*
