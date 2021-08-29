@@ -3,3 +3,7 @@
 </div>
 
 # Aula 4
+
+## Atividade
+
+- [ ] Crie seu perfil no GitHub
