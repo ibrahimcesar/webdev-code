@@ -34,7 +34,7 @@ Deverá retornar a versão instalada de cada um destes.
 No Linux dependerá de sua distribuição mas para as baseadas em Debian como o Ubuntu é através do sguinte comando:
 
 ```bash
-sudo apt-get insttall nodejs
+sudo apt-get install nodejs
 ```
 
 ## Referências
