@@ -39,6 +39,27 @@ sudo apt-get install nodejs
 
 ## Referências
 - [This Is Water](https://www.youtube.com/watch?v=8CrOL-ydFMI)
+- [Fireship canal no YouTube](https://www.youtube.com/c/Fireship)
+- "Código Limpo" e "Arquitetura Limpa", sugestão do Alexandre
+- [Frontendmasters](https://frontendmasters.com/books/front-end-handbook/2019/#1), sugestão do Gabriel
+- [Developer Rodamaps](https://roadmap.sh/), sugestão do <desculpe, esqueci, faz um commit colocando seu nome!)
+
+
+### Pessoas da história da web
+
+> Por sugestão do Alexandre, vou incluir aqui, algumas pessoas com contribuições a se pensar e fazer web. O [Richard Stallman](https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman) é uma grande figura do Free Software mas não associaria imediatamente com a web, ele é aliás contra o uso do termo open-source por questões ideológicas. Vou me focar mais em "pessoas que fazem / pensam" que envolvam web do que tecnologia em si.
+
+- [Tim Berners-Lee](https://pt.wikipedia.org/wiki/Tim_Berners-Lee) é o criador da web. Esta é a [página dele](https://www.w3.org/People/Berners-Lee/)
+- [Marc Andreessen](https://pt.wikipedia.org/wiki/Marc_Andreessen), criou o Netscape. É famoso pela frase ["Software is eating the world"](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460), ou software está devorando o mundo
+- [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz), auxiliou na criação do formato RSS
+- [Lawrence Lessig](https://en.wikipedia.org/wiki/Lawrence_Lessig), criador do Creative Commons e da frase "Código é lei"
+- [Clay Shirky](https://pt.wikipedia.org/wiki/Clay_Shirky) um dos primeiros pensadores do fenômenos social da web, escreveu o livro Lá Vem Todo Mundo (Here Comes Everybody)
+- [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier) fala bastante sobre o futuro da tecnologia e de como a web afeta nossa vida
+- [Cathy O'Neil](https://en.wikipedia.org/wiki/Cathy_O%27Neil) autora do livro Algoritmos de Destruição em Mass
+- [Evgeny Morozov](https://pt.wikipedia.org/wiki/Evgeny_Morozov) fala muito sobre tecnologia e Big Techs, autor de Big Tech
+- [Bredan Eich](https://pt.wikipedia.org/wiki/Brendan_Eich), criador do JavaScript
+
+E para desenvolvimento em si eu sigo centenas no Twitter, há muita gente compartilhando ou criando conteúdo de ótima qualidade.
 
 
 ## Atividade
