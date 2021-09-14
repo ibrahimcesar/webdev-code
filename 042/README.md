@@ -3,3 +3,5 @@
 </div>
 
 # Aula 42
+
+## Referências
