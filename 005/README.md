@@ -44,7 +44,7 @@
 - [Discord](https://discord.com/)
 - [Amazon](https://www.amazon.com.br/)
 - [Udemy](https://www.udemy.com/)
-- Inspirar-se em algum do [Driblle](https://dribbble.com/tags/website) **Avançado!**
+- Inspirar-se em algum do [Dribbble](https://dribbble.com/tags/website) **Avançado!**
 
 Ferramentas:
 
