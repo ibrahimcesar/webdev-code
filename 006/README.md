@@ -1,5 +1,8 @@
 <div align="center">
-<img  src="../images/h/4.png" alt="Fundamentos de Ciência da Computação">
+<img  src="../images/h/8.png" alt="CSS" />
+  
+  # Aula 6
+  
 </div>
 
-# Aula 6
+## Começando com estilo
