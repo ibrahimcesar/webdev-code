@@ -14,6 +14,7 @@
 - [Loren Ipsum](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/)
 - [Can I Use?](https://caniuse.com/)
 
+
 ### Snippet para visualizar elementos HTML
 
 ```css
@@ -29,3 +30,23 @@
 }
 </style>
 ```
+
+### Atividades
+
+> Sugestões de sites para clonar!
+
+- [Nextflix](https://www.netflix.com/) _Deslogado! 😁_
+- [Microsoft](https://www.microsoft.com/pt-br)
+- [Salesforce](https://www.salesforce.com/)
+- [Hulu](https://www.hulu.com/welcome)
+- [Paypal](https://www.paypal.com/us/home)
+- [Slack](https://slack.com/)
+- [Discord](https://discord.com/)
+- [Amazon](https://www.amazon.com.br/)
+- [Udemy](https://www.udemy.com/)
+- Inspirar-se em algum do [Driblle](https://dribbble.com/tags/website) **Avançado!**
+
+Ferramentas:
+
+- [Image Downloader para Chrome](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj)
+- [Extract Pics](https://extract.pics/)
