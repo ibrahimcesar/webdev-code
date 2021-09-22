@@ -7,6 +7,8 @@
 
 ## De Cabeça no HTML
 
+### [Slides da aula](https://docs.google.com/presentation/d/e/2PACX-1vQKCjeiXLVxkw7JR2ijXFwEs4tDHa-q-4Pi2YtfSYQqjJERyFiJ5HvogH1qWVuy7ztcq4iXOOHmPkLx/pub?start=false&loop=false&delayms=30000)
+
 - [Google reescrevendo títulos](https://developers.google.com/search/blog/2021/08/update-to-generating-page-titles)
 - [Metatag Viewport](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
 - [Open Protocol Referência](https://ogp.me/)
