@@ -1,0 +1,68 @@
+
+.grid-layout {
+  display: grid;
+}
+
+.h-layout {
+  border: 1px solid tomato;
+}
+
+.a1-layout {
+  /* grid-area: article1; */
+  border: 1px solid blue;
+}
+
+.a2-layout {
+  /* grid-area: article2; */
+  border: 1px solid khaki;
+}
+
+.s-layout {
+  /* grid-area: section; */
+  border: 1px solid gainsboro;
+}
+
+.a-layout {
+  /* grid-area: aside; */
+  border: 1px solid tan;
+}
+
+@media(min-width: 620px) {
+  .grid-layout {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 20px;
+    grid-template-areas: "header header header header"
+      "article1 section section aside"
+      "article2 section section aside"
+    ;
+
+  }
+
+  .h-layout {
+    grid-area: header;
+  }
+
+  .a1-layout {
+    grid-area: article1;
+  }
+
+  .a2-layout {
+    grid-area: article2;
+  }
+
+  .s-layout {
+    grid-area: section;
+  }
+
+  .a-layout {
+    grid-area: aside;
+    border: 1px solid red;
+  }
+}
+
+#id {
+  color: khaki
+}
+
