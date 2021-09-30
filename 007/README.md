@@ -1,5 +1,5 @@
 <div align="center">
-<img  src="../images/h/5.png" alt="Pensando como uma pessoa desenvolvedora" />
+  <img src="code/8.png" alt="Cascading Styling Sheets">
 </div>
 
 # Aula 7

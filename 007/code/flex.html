@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <header>
+    <title>Exercício em Flexbox</title>
+    <meta charset="utf-8" />
+    <style>
+      .container {
+        display: flex;
+        width: 90vw;
+        border:1px dashed #663399;
+        align-items: center;
+      }
+
+      .item {
+        color: #fff;
+      }
+
+      #primeira {
+        background-color: red;
+        width: 20vw;
+        height: 550px;
+
+      }
+      #segunda {
+        background-color: green;
+        width: 30vw;
+        flex: 0 1 auto;
+      }
+      #terceira {
+        background-color: blue;
+        width:  15vw;
+        min-height: 450px;
+        align-self: strech;
+      }
+
+    </style>
+  </header>
+  <body>
+    <div class="container">
+
+      <div
+      class="item"
+      id="primeira">
+      R
+    </div>
+
+    <div class="item" id="segunda">G</div>
+    <div class="item" id="terceira">B</div>
+    </div>
+  </body>
+</html>
